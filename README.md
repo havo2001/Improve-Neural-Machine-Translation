@@ -10,6 +10,6 @@ Python libraries: You will need several Python libraries, including NumPy, Panda
 
 ## Usage
 1. Clone this using git:
-`git clone git@github.com:havo2001/Bayesian-Inference.git`
+`git clone git@github.com:havo2001/Improve-Neural-Machine-Translation.git`
 2. Launch Jupyter Notebook by running:
 `jupyter notebook`
